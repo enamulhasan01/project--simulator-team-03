@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-12: Use Inventory Search Bar
+User can search cars using text input.
+**Status: Implemented**
+
