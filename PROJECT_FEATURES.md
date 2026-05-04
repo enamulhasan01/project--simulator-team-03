@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-29: View Details of Past Purchase
+User can view detailed transaction info.
+**Status: Implemented**
+
