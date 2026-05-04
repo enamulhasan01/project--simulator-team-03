@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-28: View Purchase Status and Date
+User sees purchase approval status and date.
+**Status: Implemented**
+
