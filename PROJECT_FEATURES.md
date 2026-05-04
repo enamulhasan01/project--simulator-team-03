@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-27: View Recent Purchases Dashboard
+User can view recent activity and transactions.
+**Status: Implemented**
+
