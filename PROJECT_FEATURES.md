@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-25: Select Trade-In Condition
+User selects vehicle condition from dropdown.
+**Status: Implemented**
+
