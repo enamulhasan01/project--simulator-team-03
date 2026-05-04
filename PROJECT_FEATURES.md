@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-26: Submit Valuation Request
+User submits trade-in request for estimated value.
+**Status: Implemented**
+
