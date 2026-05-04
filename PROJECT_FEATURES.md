@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-30: View Pending Request Status
+User sees current status of requests.
+**Status: Implemented**
+
