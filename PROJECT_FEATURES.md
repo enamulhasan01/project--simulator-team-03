@@ -9,3 +9,7 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-14: View Car Listing Primary Details
+User sees year, make, model, price of cars.
+**Status: Implemented**
+
