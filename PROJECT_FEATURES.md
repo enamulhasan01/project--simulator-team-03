@@ -68,3 +68,7 @@ User can submit email and password to securely sign in.
 As a shop owner, I want to click 'Edit' on a specific car card so that I can modify its details or adjust its listing price.
 **Status: Implemented**
 
+## CB-64: View Customer Demands (Real-Time)
+As a supplier, I want to view the 'Active Wishlists' feed showing what cars customers are looking for so that I can source highly relevant inventory.
+**Status: Implemented**
+
