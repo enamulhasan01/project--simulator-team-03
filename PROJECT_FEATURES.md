@@ -68,3 +68,7 @@ User can submit email and password to securely sign in.
 As a shop owner, I want to click 'Edit' on a specific car card so that I can modify its details or adjust its listing price.
 **Status: Implemented**
 
+## CB-66: Pitch Directly to Customer Demand
+As a supplier, I want to click the 'Propose Vehicle' button directly inside a Customer Demand card so that I can instantly pitch a car that fulfills that exact request.
+**Status: Implemented**
+
