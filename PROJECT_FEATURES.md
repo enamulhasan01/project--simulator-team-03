@@ -64,3 +64,7 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-33: View Total Inventory KPI
+As a shop owner, I want to see the current numerical count of 'Total Inventory' so that I know exactly how many cars are on the lot.
+**Status: Implemented**
+
