@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-11: View Browse Inventory Page
+Customer can view available cars in inventory.
 ## CB-10: Submit Account Registration
 User submits form to create account and access platform.
 ## CB-09: Input Registration Details
