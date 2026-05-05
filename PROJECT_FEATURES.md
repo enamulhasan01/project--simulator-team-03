@@ -64,3 +64,15 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-33: View Total Inventory KPI
+As a shop owner, I want to see the current numerical count of 'Total Inventory' so that I know exactly how many cars are on the lot.
+**Status: Implemented**
+
+## CB-32: View Dashboard Overview Metrics
+As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
+**Status: Implemented**
+
+## CB-52: View Inventory Cost vs Listed Price
+As a shop owner, I want to see both the internal 'Cost' and the public 'Listed' price for every vehicle so that I am aware of the potential profit margin per car.
+**Status: Implemented**
+
