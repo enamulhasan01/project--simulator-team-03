@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-22: Submit Specific Car Request
+User can submit wishlist request to shop.
 ## CB-21: Add Notes to Car Request
 User can add custom notes for preferences like color or features.
 ## CB-20: Input Budget and Year for Request
