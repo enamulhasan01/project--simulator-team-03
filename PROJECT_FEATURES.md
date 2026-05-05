@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-45: View Wishlist Budget & Age
+As a shop owner, I want to see the customer's budget range and how many days ago the wishlist was requested so that I can prioritize urgent or high-value sourcing.
+**Status: Implemented**
+
