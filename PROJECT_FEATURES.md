@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-41: View Supplier Performance List
+As a shop owner, I want to navigate to the 'Supplier Performance' dashboard so that I can evaluate my wholesale partners.
+**Status: Implemented**
+
