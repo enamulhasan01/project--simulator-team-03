@@ -11,6 +11,8 @@ ord fields, including validation and error handling.
 
 ## CB-10: Submit Account Registration
 User submits form to create account and access platform.
+## CB-09: Input Registration Details
+User enters name, email, and password for account creation.
 ## CB-08: Select Supplier Role
 Supplier can provide vehicles to shops.
 ## CB-07: Select Shop Owner Role
