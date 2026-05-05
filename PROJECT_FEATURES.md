@@ -68,3 +68,7 @@ User can submit email and password to securely sign in.
 As a shop owner, I want to click 'Edit' on a specific car card so that I can modify its details or adjust its listing price.
 **Status: Implemented**
 
+## CB-60: View Details of Proposed Vehicle
+As a supplier, I want to click 'View Details' to review the data of a previously pitched vehicle so that I can reference what information I provided.
+**Status: Implemented**
+
