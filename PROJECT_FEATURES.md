@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-38: Download PDF Report
+As a shop owner, I want to click 'Download PDF' so that I can export and save the monthly financial report for my records.
+**Status: Implemented**
+
