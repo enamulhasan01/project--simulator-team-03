@@ -64,3 +64,7 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-53: View Inventory Stock Badge
+As a shop owner, I want to see the blue 'In Stock' badge on active inventory items so that I can quickly verify availability.
+**Status: Implemented**
+
