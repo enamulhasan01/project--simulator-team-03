@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-03: Navigate to Sign Up
+User can click sign up link to start registration process.
 ## CB-002: Submit Login Credentials
 User can submit email and password to securely sign in.
 **Status: Implemented**
