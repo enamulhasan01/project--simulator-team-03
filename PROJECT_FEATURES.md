@@ -64,3 +64,7 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-55: Add New Vehicle Form
+As a shop owner, I want to click '+ Add New Vehicle' so that I can manually input a new car into the system's inventory.
+**Status: Implemented**
+
