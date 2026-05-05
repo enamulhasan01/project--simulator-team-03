@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-09: Input Registration Details
+User enters name, email, and password for account creation.
 ## CB-08: Select Supplier Role
 Supplier can provide vehicles to shops.
 ## CB-07: Select Shop Owner Role
