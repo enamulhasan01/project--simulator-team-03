@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-24: Input Trade-In Specs
+User inputs car make, model, year, and mileage.
 ## CB-23: View Trade-In Valuation Form
 User can access car valuation section.
 ## CB-22: Submit Specific Car Request
