@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-40: Generate All Paperwork
+As a shop owner, I want to click 'Generate All' so that I can process the pending finance documents in bulk.
+**Status: Implemented**
+
