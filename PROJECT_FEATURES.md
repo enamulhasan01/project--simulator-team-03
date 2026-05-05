@@ -64,3 +64,7 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-54: View Profitability Badges
+As a shop owner, I want to see dynamic 'Profitable' or 'Low Profit' badges on inventory items so that I can adjust pricing strategies if needed.
+**Status: Implemented**
+
