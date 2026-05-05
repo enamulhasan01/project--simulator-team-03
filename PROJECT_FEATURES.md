@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-50: Reject Pending Sale
+As a shop owner, I want to click the 'Reject' button so that I can decline a pending deal that isn't profitable or viable.
+**Status: Implemented**
+
