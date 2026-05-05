@@ -9,6 +9,10 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+<<<<<<< feature/CB-26
+## CB-26: Submit Valuation Request
+User submits trade-in request for estimated value.
+=======
 ## CB-25: Select Trade-In Condition
 User selects vehicle condition from dropdown.
 ## CB-24: Input Trade-In Specs
@@ -57,5 +61,6 @@ User can access forgot password flow from login page.
 User can click sign up link to start registration process.
 ## CB-002: Submit Login Credentials
 User can submit email and password to securely sign in.
+>>>>>>> dev
 **Status: Implemented**
 
