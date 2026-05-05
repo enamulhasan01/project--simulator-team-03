@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-16: View Availability Badge
+User sees available status on cars.
 ## CB-15: View Car Listing Secondary Specs
 User sees mileage, color, body type.
 ## CB-14: View Car Listing Primary Details
