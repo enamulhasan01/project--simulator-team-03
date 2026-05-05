@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-13: Open Inventory Filter
+User can filter car listings based on preferences.
 ## CB-12: Use Inventory Search Bar
 User can search cars using text input.
 ## CB-11: View Browse Inventory Page
