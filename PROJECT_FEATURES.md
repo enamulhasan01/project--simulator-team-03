@@ -68,3 +68,7 @@ User can submit email and password to securely sign in.
 As a shop owner, I want to click 'Edit' on a specific car card so that I can modify its details or adjust its listing price.
 **Status: Implemented**
 
+## CB-65: Read Customer Demand Specs
+As a supplier, I want to see the target Year Range, Budget, and how many days ago the demand was added so that I can match my inventory accurately to the customer's needs.
+**Status: Implemented**
+
