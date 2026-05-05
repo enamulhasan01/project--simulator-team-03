@@ -64,3 +64,7 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-32: View Dashboard Overview Metrics
+As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
+**Status: Implemented**
+
