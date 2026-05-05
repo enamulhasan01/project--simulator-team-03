@@ -72,3 +72,7 @@ As a shop owner, I want to click 'Edit' on a specific car card so that I can mod
 As a supplier, I want to navigate to the 'Propose Vehicle Offering' form so that I can begin pitching a new vehicle.
 **Status: Implemented**
 
+## CB-62: Input Vehicle Pitch Specifications
+As a supplier, I want to type the Make, Model, Year, Asking Price, and Mileage into the form so that the shop owner has the necessary details to evaluate my pitch.
+**Status: Implemented**
+
