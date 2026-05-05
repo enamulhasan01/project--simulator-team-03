@@ -11,6 +11,12 @@ ord fields, including validation and error handling.
 
 ## CB-11: View Browse Inventory Page
 Customer can view available cars in inventory.
+## CB-10: Submit Account Registration
+User submits form to create account and access platform.
+## CB-09: Input Registration Details
+User enters name, email, and password for account creation.
+## CB-08: Select Supplier Role
+Supplier can provide vehicles to shops.
 ## CB-07: Select Shop Owner Role
 Shop Owner can manage inventory and dealership operations.
 ## CB-06: Select Customer Role
