@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-06: Select Customer Role
+Customer role enables buying and browsing vehicles.
 ## CB-05: View Role Selection UI
 User sees role cards for Customer, Shop Owner, Supplier.
 ## CB-04: Navigate to Password Recovery
