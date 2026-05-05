@@ -11,5 +11,15 @@ ord fields, including validation and error handling.
 
 ## CB-07: Select Shop Owner Role
 Shop Owner can manage inventory and dealership operations.
+## CB-06: Select Customer Role
+Customer role enables buying and browsing vehicles.
+## CB-05: View Role Selection UI
+User sees role cards for Customer, Shop Owner, Supplier.
+## CB-04: Navigate to Password Recovery
+User can access forgot password flow from login page.
+## CB-03: Navigate to Sign Up
+User can click sign up link to start registration process.
+## CB-002: Submit Login Credentials
+User can submit email and password to securely sign in.
 **Status: Implemented**
 
