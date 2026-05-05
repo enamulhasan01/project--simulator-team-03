@@ -64,3 +64,11 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-56: Edit Inventory Item
+As a shop owner, I want to click 'Edit' on a specific car card so that I can modify its details or adjust its listing price.
+**Status: Implemented**
+
+## CB-58: View Vehicle Status Indicators
+As a supplier, I want to read the text status of my pitch (e.g., Sold, On Lot, Awaiting Approval) so that I know where the vehicle is in the pipeline.
+**Status: Implemented**
+
