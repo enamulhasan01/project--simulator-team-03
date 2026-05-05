@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-15: View Car Listing Secondary Specs
+User sees mileage, color, body type.
 ## CB-14: View Car Listing Primary Details
 User sees year, make, model, price of cars.
 ## CB-13: Open Inventory Filter
