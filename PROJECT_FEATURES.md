@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-18: View Specific Car Request Form
+User can request a car not in stock.
 ## CB-17: Click to View Car Details
 User can open full vehicle profile.
 ## CB-16: View Availability Badge
