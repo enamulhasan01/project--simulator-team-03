@@ -11,5 +11,7 @@ ord fields, including validation and error handling.
 
 ## CB-03: Navigate to Sign Up
 User can click sign up link to start registration process.
+## CB-002: Submit Login Credentials
+User can submit email and password to securely sign in.
 **Status: Implemented**
 
