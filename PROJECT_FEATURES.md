@@ -9,6 +9,8 @@ This task involves creating a signup form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## CB-20: Input Budget and Year for Request
+User enters budget and year range for car request.
 ## CB-19: Select Make and Model for Request
 User selects car make and model.
 ## CB-18: View Specific Car Request Form
