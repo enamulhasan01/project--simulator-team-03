@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-46: View Wishlist Supplier Status Badge
+As a shop owner, I want to see the blue 'Shared with Suppliers' badge on wishlist items so that I know which demands have been outsourced.
+**Status: Implemented**
+
