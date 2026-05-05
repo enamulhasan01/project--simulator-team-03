@@ -68,3 +68,7 @@ User can submit email and password to securely sign in.
 As a shop owner, I want to click 'Edit' on a specific car card so that I can modify its details or adjust its listing price.
 **Status: Implemented**
 
+## CB-61: Access Propose Vehicle Form
+As a supplier, I want to navigate to the 'Propose Vehicle Offering' form so that I can begin pitching a new vehicle.
+**Status: Implemented**
+
