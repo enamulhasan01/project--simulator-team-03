@@ -64,3 +64,15 @@ User can submit email and password to securely sign in.
 >>>>>>> dev
 **Status: Implemented**
 
+## CB-33: View Total Inventory KPI
+As a shop owner, I want to see the current numerical count of 'Total Inventory' so that I know exactly how many cars are on the lot.
+**Status: Implemented**
+
+## CB-32: View Dashboard Overview Metrics
+As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
+**Status: Implemented**
+
+## CB-42: View Supplier Volume Metric
+As a shop owner, I want to see the exact number of 'Vehicles Supplied' by a specific partner so that I know who my highest volume suppliers are.
+**Status: Implemented**
+
