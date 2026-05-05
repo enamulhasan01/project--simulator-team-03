@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-44: View Active Customer Wishlists
+As a shop owner, I want to view the list of real-time requests submitted by customers so that I know exactly what inventory is in demand.
+**Status: Implemented**
+
