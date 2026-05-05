@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-42: View Supplier Volume Metric
+As a shop owner, I want to see the exact number of 'Vehicles Supplied' by a specific partner so that I know who my highest volume suppliers are.
+**Status: Implemented**
+
