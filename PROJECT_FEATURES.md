@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-37: View Monthly Profit Summary
+As a shop owner, I want to see the 'Total Profit' tied to a specific summary month so that I can review historical performance.
+**Status: Implemented**
+
