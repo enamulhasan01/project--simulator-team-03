@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-52: View Inventory Cost vs Listed Price
+As a shop owner, I want to see both the internal 'Cost' and the public 'Listed' price for every vehicle so that I am aware of the potential profit margin per car.
+**Status: Implemented**
+
