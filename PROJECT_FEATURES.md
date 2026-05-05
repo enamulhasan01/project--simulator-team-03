@@ -72,3 +72,7 @@ As a shop owner, I want to see the current numerical count of 'Total Inventory' 
 As a shop owner, I want to access the main dashboard displaying top-level KPI widget cards so that I can quickly assess the health of my business.
 **Status: Implemented**
 
+## CB-35: View Pending Approvals & Wishlists KPIs
+As a shop owner, I want to see the exact count of 'Pending Approvals' and 'Active Wishlists' so that I know what tasks require my immediate attention.
+**Status: Implemented**
+
